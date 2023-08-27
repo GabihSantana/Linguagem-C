@@ -2,16 +2,17 @@
 #include <stdlib.h>
 
 int main(){
-    float hdegrau, hsubir, esc;
+    float hdegrau, hsubir, esc, height;
 
-    printf("Insira a altura do degrau(cm): ");
+    printf("\nInsira a altura do degrau(cm): ");
     scanf(" %f", &hdegrau);
-    printf("Insira a altura que deseja alcançar subindo a escada(m): ");
+    printf("\nInsira a altura que deseja alcancar subindo a escada(m): ");
     scanf(" %f", &hsubir);
 
-    esc = (hdegrau * 100) / hsubir;
+    height = hsubir * 100;
+    esc = height / hdegrau;
 
-    printf("Para chegar em %.0fm, voce deve subir %.0f", hsubir, esc);
+    printf("\n\tPara chegar em %.0fm, voce deve subir %.0f degraus", hsubir, esc);
 
     printf("\n\n\n");
     system("pause");

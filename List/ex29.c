@@ -1,18 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 
 int main(){
-    int x, y;
-    int origemx = 0, origemy = 0;
+    float x, y;
+    float distancia;
 
     printf("\nInsira as coordenadas x e y: ");
-    scanf(" %d %d", &x, &y);
+    scanf(" %f %f", &x, &y);
 
+    distancia = sqrt(x * x + y * y);
 
-    origemx = x - origemx;
-    origemy = y - origemy;
-
-    printf("\nA distancia da origem e de %d e %d", origemx, origemy);
+    printf("\nA distancia eh %.2f", distancia);
 
 
     printf("\n\n\n");
