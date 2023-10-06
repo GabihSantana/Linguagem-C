@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1695841619 source:c:\users\adv\desktop\estr_dados_1\tipoabstratodedado\exemplo01\ptcart.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"PTcart.h"
+
+1695840619 c:\users\adv\desktop\estr_dados_1\tipoabstratodedado\exemplo01\ptcart.h
+
+1695844241 source:c:\users\adv\desktop\estr_dados_1\tipoabstratodedado\ativ2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PTcart.h"
+
+1695840619 c:\users\adv\desktop\estr_dados_1\tipoabstratodedado\ativ2\ptcart.h
+

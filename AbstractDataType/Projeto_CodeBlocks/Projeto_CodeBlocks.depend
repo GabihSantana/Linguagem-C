@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1695251474 source:c:\users\aluno\desktop\estruturadados\projeto_codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"my_lib.h"
+
+1695251472 c:\users\aluno\desktop\estruturadados\projeto_codeblocks\my_lib.h
+
+1695251473 source:c:\users\aluno\desktop\estruturadados\projeto_codeblocks\my_lib.c
+
+1695237074 source:c:\users\adv\desktop\estr_dados_1\tipoabstratodedado\projeto_codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"my_lib.h"
+
+1695237072 c:\users\adv\desktop\estr_dados_1\tipoabstratodedado\projeto_codeblocks\my_lib.h
+

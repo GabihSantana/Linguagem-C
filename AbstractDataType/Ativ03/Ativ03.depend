@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1696023575 source:c:\users\adv\desktop\estr_dados_1\tipoabstratodedado\ativ03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
+1696023552 c:\users\adv\desktop\estr_dados_1\tipoabstratodedado\ativ03\calculadora.h
+
+1696023551 source:c:\users\adv\desktop\estr_dados_1\tipoabstratodedado\ativ03\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
