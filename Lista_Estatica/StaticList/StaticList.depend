@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1699298329 source:c:\users\adv\desktop\estr_dados_1\lista_estatica\staticlist\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"listaSequencial.h"
+
+1699297870 c:\users\adv\desktop\estr_dados_1\lista_estatica\staticlist\listasequencial.h
+
+1699298045 source:c:\users\adv\desktop\estr_dados_1\lista_estatica\staticlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaSequencial.h"
+
