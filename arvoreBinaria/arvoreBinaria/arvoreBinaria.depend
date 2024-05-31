@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1713751549 source:c:\users\gabis\downloads\eda2\arvorebinaria\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1713750641 c:\users\gabis\downloads\eda2\arvorebinaria\arvorebinaria\arvorebinaria.h
+
+1713751157 source:c:\users\gabis\downloads\eda2\arvorebinaria\arvorebinaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
