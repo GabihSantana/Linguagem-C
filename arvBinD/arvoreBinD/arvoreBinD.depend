@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1713313493 source:c:\users\aluno\desktop\arvbind\arvorebind\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinD.h"
+
+1713313562 c:\users\aluno\desktop\arvbind\arvorebind\arvorebind.h
+
+1713314227 source:c:\users\aluno\desktop\arvbind\arvorebind\arvorebind.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinD.h"
+
+1713314409 source:c:\users\gabis\onedrive - ifsp.edu.br\estruturadados\arvbind\arvorebind\arvorebind.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinD.h"
+
+1713314410 c:\users\gabis\onedrive - ifsp.edu.br\estruturadados\arvbind\arvorebind\arvorebind.h
+
+1713314410 source:c:\users\gabis\onedrive - ifsp.edu.br\estruturadados\arvbind\arvorebind\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinD.h"
+
