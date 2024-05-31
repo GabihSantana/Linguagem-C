@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1710125236 source:c:\users\gabis\downloads\eda2\tabelahash\hashtable.c
+	<stdio.h>
+	<stdlib.h>
+	"hashTable.h"
+
+1710125448 c:\users\gabis\downloads\eda2\tabelahash\hashtable.h
+
+1710125344 source:c:\users\gabis\downloads\eda2\tabelahash\main.c
+	<stdio.h>
+	<stdlib.h>
+	"controls.h"
+	"hashTable.h"
+
+1710122178 c:\users\gabis\downloads\eda2\tabelahash\controls.h
+
+1710123349 source:c:\users\gabis\downloads\eda2\tabelahash\controls.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"controls.h"
+	"hashTable.h"
+
