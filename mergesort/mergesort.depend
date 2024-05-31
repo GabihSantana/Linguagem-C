@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1710693919 source:c:\users\gabis\downloads\eda2\mergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mergesort.h"
+
+1710691475 c:\users\gabis\downloads\eda2\mergesort\mergesort.h
+
+1711471581 source:c:\users\gabis\downloads\eda2\mergesort\mergesort.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"mergesort.h"
+
