@@ -1,14 +1,9 @@
-### Olá! Por aqui, vou compartilhar alguns dos meus conhecimento na linguagem de programação C, como Matrizes, Vetores, Loops, Strings e funções.
+# 💻 C 
+Bem-vindo ao repositório C-Basico!
+Este repositório é destinado às práticas, exercícios e aprendizados da linguagem C, desenvolvidos através das aulas da faculdade.
 
-<br />
-<h4> Programas: </h4>
-
-* Aproveitamento Escolar;
-* Calculadora;
-* Salário Líquido;
-* Senha;
-* Swap;
-* Comparação entre números;
-* Somatórios;
-* Acomuladores;
-* Entre muitos outros, utilizando o citado no início. :)
+## 📋 Objetivo
+O objetivo deste repositório é:
+- Consolidar os conceitos básicos e intermediários da linguagem C.
+- Compartilhar exercícios resolvidos e exemplos práticos.
+- Documentar o progresso no desenvolvimento de habilidades com C.
